@@ -1,0 +1,4 @@
+.venv
+/lesson_1/__pycache__
+/lesson_1/.pytest_cache
+/lesson_1/.mypy_cache
